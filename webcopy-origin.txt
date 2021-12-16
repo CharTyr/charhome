@@ -1,0 +1,28 @@
+Uri: https://chartyr.carrd.co/
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Inter:300,300italic,200,200italic|Karla:700,700italic
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\css.css
+Content Type: text/css
+
+Uri: https://mobile.twitter.com/chartyr45
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\chartyr45.html
+Content Type: text/html
+
+Uri: https://steamcommunity.com/id/ct45
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\id\ct45.html
+Content Type: text/html
+
+Uri: https://www.pixiv.net/users/36459129
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\users\36459129.html
+Content Type: text/html
+
+Uri: https://chartyr.carrd.co/assets/images/bg.svg?v=3051d1e3
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\assets\images\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://chartyr.carrd.co/assets/images/image03.jpg?v=3051d1e3
+File Name: C:\Downloaded Web Sites\chartyr.carrd.co\assets\images\image03.jpg
+Content Type: image/jpeg
+
